@@ -30,10 +30,10 @@
 - 应用管理
 ![后台应用管理](https://github.com/zyangk/changlian/assets/13983108/635d8bb3-e26d-47c6-b67a-0a75a16d5458)
 
-- 终端管理
+- 终端管理，查看所有安装了客⼾端的设备的硬件信息
 ![后台终端管理管理](https://github.com/zyangk/changlian/assets/13983108/332d9bfc-29be-4079-9b6a-9a0d247c61bd)
 
-- vpn日志
+- vpn日志，提供了完整的⽇志审计功能
 ![后台终端vpn日志](https://github.com/zyangk/changlian/assets/13983108/8a954fcf-bbe8-4974-9d32-d05ff7f753db)
 
 
