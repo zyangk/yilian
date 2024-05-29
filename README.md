@@ -1,21 +1,21 @@
-# 关于畅连(changlian)
+# 畅连(changlian)
 畅连目标定位是打造一款轻量级的数字化办公平台，具有身份权限管理、 远程办公连接、办公网络管理、终端安全、应用权限控制，访问审计等多项核心能力。企业员工可以随时随地连接内部网络，高效进行远程办公。
 
 ## 客户端
-- vpn连接
+- vpn连接状态，自动分配内网ip
 ![vpn打开](https://github.com/zyangk/changlian/assets/13983108/ae380400-8595-449a-a929-74bb76d8c58d)
 
-- vpn断开
+- vpn断开,一键操作，方便快捷
 ![vpn断开](https://github.com/zyangk/changlian/assets/13983108/9e2ba329-5c59-4582-8e54-2a135231c1f5)
 
-- 应用列表
+- 应用列表，办公软件快捷入口
 ![客户端-应用](https://github.com/zyangk/changlian/assets/13983108/e998da99-fc14-491e-9b8d-2a9b11cb0e4f)
 
-- 应用访问
+- 应用访问，客户端直接访问
 ![客户端应用查看](https://github.com/zyangk/changlian/assets/13983108/ce4c8397-4557-4e92-a255-963a9ef8be55)
 
 ## 后台管理端
-- 首页
+- 首页，总体数据统计
 ![后台首页](https://github.com/zyangk/changlian/assets/13983108/77c2b3d4-7b11-4e64-b8bf-192c985531e7)
 - vpn访问策略
 ![后台vpn访问策略](https://github.com/zyangk/changlian/assets/13983108/721fc454-8ac2-4236-9c44-34d337a03e38)
