@@ -18,16 +18,16 @@
 ## 后台管理端
 - 首页，总体数据统计
 ![后台首页](https://github.com/zyangk/changlian/assets/13983108/77c2b3d4-7b11-4e64-b8bf-192c985531e7)
-- vpn访问策略
+- vpn访问策略，支持多个规则列表配置
 ![后台vpn访问策略](https://github.com/zyangk/changlian/assets/13983108/721fc454-8ac2-4236-9c44-34d337a03e38)
 
-- 在线会话
+- 在线会话，实时查看在线用户流量
 ![后台vpn在线会话](https://github.com/zyangk/changlian/assets/13983108/c067493c-f36a-4ac8-b262-32cf6167ac7f)
 
-- 分配ip列表
+- 分配ip列表，查看用户ip分配
 ![后台vpn分配地址](https://github.com/zyangk/changlian/assets/13983108/b4466c62-b54f-4852-b233-5c04a1276e52)
 
-- 应用管理
+- 应用管理，办公软件配置与权限控制
 ![后台应用管理](https://github.com/zyangk/changlian/assets/13983108/635d8bb3-e26d-47c6-b67a-0a75a16d5458)
 
 - 终端管理，查看所有安装了客⼾端的设备的硬件信息
